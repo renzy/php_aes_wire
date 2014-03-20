@@ -1,5 +1,5 @@
 <?php
-//author:		aaron renzelmann
+//author:	aaron renzelmann
 //description:	advanced encryption standard class, 2 way encrpytion
 //date create: 	2013-02-26
 
